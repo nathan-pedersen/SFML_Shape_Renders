@@ -24,5 +24,3 @@
 
 #define f32 float
 #define f64 double
-
-
